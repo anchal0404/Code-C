@@ -1,6 +1,10 @@
-#include<stdio.h>
-int main(int argc, char const *argv[])
+#include<stdio.h> //
+int main() //
 {
-   printf("LOVE MYSELF");
+   printf
+   ("LOVE MYSELF\n");
     return 0;
 }
+
+
+//Keyword, identifiers, constant ,string literal ,symbol

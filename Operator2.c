@@ -1,9 +1,15 @@
 #include<stdio.h>
 
-int main(int argc, char const *argv[])
+int main()
 {
-    int a,b;
-    a=45,b=45;
-    printf("a+b=%d\n",a!=b);
+  int a,i;
+  scanf("%d",&a);
+
+  for ( i = 1 ; i < 11; i++)
+  {
+   printf("%d X %d = %d\n", a , i ,a*i);
+  }
+  
     return 0;
 }
+
