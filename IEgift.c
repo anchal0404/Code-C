@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
     
 if (maths>30)
 {
-   printf("You got a Pen\n");
+   printf("You got a Pen\a");
 }
 else
 {
