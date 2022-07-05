@@ -1,3 +1,8 @@
+/*
+Author Anchal
+Purpose:Practice
+Date:29/06/22
+*/
 #include<stdio.h>
 
 int main()

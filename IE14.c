@@ -1,3 +1,11 @@
+/* if else Problem
+
+Write a program to accept basic salary from user,
+is 5% of basic salary. If salary is above 10000 then
+gs=basic salary+TA+DA?
+
+*/
+
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
