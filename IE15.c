@@ -1,3 +1,6 @@
+/*Write a program to calculate Area and perimeter of Rectangle then
+greater.
+*/
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {

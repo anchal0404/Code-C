@@ -1,3 +1,13 @@
+/*
+ Write a program for generating electricity Bill
+and print bill amount according to following condition
+For units
+0-100 charges 2 rs/unit
+101-200 charges 3rs/unit
+201-300 4rs/unit
+>300 charges 5rs/unit
+*/
+
 #include<stdio.h>
 int main()
 {

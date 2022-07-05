@@ -1,3 +1,11 @@
+/*
+Write a program that accepts marks (out of 100) of five sub
+percentage? Display message according to following
+percentage >=60 Grade A
+percentage >=50 Grade B
+percentage >=40 Grade C
+percentage <40 Grade D
+*/
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
